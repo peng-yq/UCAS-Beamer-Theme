@@ -2,6 +2,8 @@
 
  **A Beamer Theme of UCAS for academic report, thesis and talk.**
 
+[typora-latex-theme-UCAS](https://github.com/peng-yq/typora-latex-theme-UCAS)
+
 ## Introduction
 
 - 基于[THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme)进行修改，仅修改配色和校徽，如有更多需求，可自行修改sty文件
